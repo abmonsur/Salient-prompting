@@ -1,4 +1,8 @@
-Run the main.py for the few-shot prompting
+Run main.py for the few-shot prompting
+
+Run finetune.py for fully finetuning the model
+
+Run lorafinetune.py to finetune using LoRA
 
 You can change the prompts if needed (line 54-104)
 
